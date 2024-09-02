@@ -1,11 +1,11 @@
 <template>
-    <div class="container mx-auto pt-24 pb-8 px-4 sm:px-6 lg:px-8"> <!-- Ajuste de padding para telas menores -->
+    <div class="container mx-auto pt-24 sm:pt-24 pb-10 px-4 sm:px-6 lg:px-8"> <!-- Ajuste de padding para telas menores -->
       <article class="max-w-3xl mx-auto bg-black text-white shadow-md rounded-lg p-6 sm:p-8">
         <!-- Título do post -->
-        <h1 class="text-3xl sm:text-4xl font-bold mb-2">Descobri o Shoegaze</h1> <!-- Ajuste de tamanho do texto para responsividade -->
+        <h1 class="text-3xl sm:text-4xl flex justify-center font-bold p-16 sm:p-12">Descobri o Shoegaze</h1> <!-- Ajuste de tamanho do texto para responsividade -->
   
         <!-- Data e autor -->
-        <p class="text-sm text-gray-500 mb-4">Publicado em 25 de agosto de 2024 por Ramon Moraes</p>
+        <p class="text-sm text-gray-500 mb-2">Publicado em 25 de agosto de 2024 por Ramon Moraes</p>
   
         <!-- Espaço para a foto -->
         <div class="mb-6">

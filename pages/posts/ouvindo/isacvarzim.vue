@@ -1,11 +1,11 @@
 <template>
-  <div class="container mx-auto pt-16 pb-8 px-4 sm:px-6 lg:px-8"> <!-- Ajuste de padding para telas menores -->
+  <div class="container mx-auto pt-24 sm:pt-24 pb-10 px-4 sm:px-6 lg:px-8"> <!-- Ajuste de padding para telas menores -->
     <article class="max-w-3xl mx-auto bg-black text-white shadow-md rounded-lg p-6 sm:p-8">
       <!-- Título do post -->
-      <h1 class="text-3xl sm:text-4xl font-bold mb-2">Isac Varzim</h1> <!-- Ajuste de tamanho do texto para responsividade -->
+      <h1 class="text-3xl sm:text-4xl flex justify-center font-bold p-16 sm:p-12">Isac Varzim</h1> <!-- Ajuste de padding para o título -->
 
       <!-- Data e autor -->
-      <p class="text-sm sm:text-sm text-gray-500 mb-4">Publicado em 18 de agosto de 2024 por Ramon Moraes</p>
+      <p class="text-sm text-gray-500 mb-2">Publicado em 18 de agosto de 2024 por Ramon Moraes</p>
 
       <!-- Espaço para a foto -->
       <div class="mb-6">
@@ -14,7 +14,7 @@
 
       <!-- Conteúdo do post -->
       <div>
-        <p class="text-white text-base sm:text-xl mb-6"> <!-- Ajuste de tamanho do texto para responsividade -->
+        <p class="text-white text-base sm:text-xl mb-6">
           O Isac Varzim foi uma recente descoberta que tive após ser fisgado pelo algoritmo do Youtube. Ele é um DJ 
           de Florianópolis que produz muitas músicas autorais e posta seus conteúdos em seu canal do Youtube e Spotify, 
           além de dar mentorias para quem tem interesse em se tornar um DJ, e com certeza deve ser um ótimo professor.
@@ -50,7 +50,4 @@
 
 <style scoped>
 /* Estilos adicionais podem ser adicionados aqui se necessário */
-  .header {
-    margin-top: 20px; /* Ajuste conforme necessário */
-  }
 </style>

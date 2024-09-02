@@ -9,52 +9,59 @@
         </div>
 
         <div class="mt-4 sm:mt-0 flex flex-wrap justify-center sm:justify-end space-x-2 sm:space-x-4">
-  <!-- Dropdown button para Resumo Semanal -->
-        <div class="group inline-block relative">
-          <button class="px-2 py-1 sm:px-4 sm:py-2 font-bold bg-gray-800 rounded hover:bg-gray-700">Resumo Semanal</button>
+          <!-- Dropdown para Resumo Semanal -->
+          <div class="relative group">
+            <button class="px-2 py-1 sm:px-4 sm:py-2 font-bold bg-gray-800 rounded hover:bg-gray-700">
+              Resumo Semanal
+            </button>
+            <div class="absolute hidden group-hover:block bg-gray-800 mt-1 shadow-lg rounded w-48 sm:w-64 z-10">
+              <div class="py-2">
+                <NuxtLink to="/posts/resumo/resumo1" class="block px-4 py-2 text-white hover:bg-gray-700">
+                  Resumo 1
+                </NuxtLink>
+                <!-- Adicione mais links para outros resumos semanais aqui -->
+              </div>
+            </div>
+          </div>
 
-    <!-- Dropdown content -->
-        <div class="absolute hidden group-hover:block bg-gray-800 mt-1 shadow-lg rounded w-48 sm:w-64 z-10 transition-opacity duration-500 ease-in-out opacity-0 group-hover:opacity-100">
-          <div class="py-2">
-            <NuxtLink to="/posts/resumo/resumo1" class="block px-4 py-2 text-white hover:bg-gray-700">Resumo 1</NuxtLink>
-            
-        <!-- Adicione mais links para outros resumos semanais aqui -->
+          <!-- Dropdown para Resenhas -->
+          <div class="relative group">
+            <button class="px-2 py-1 sm:px-4 sm:py-2 font-bold bg-gray-800 rounded hover:bg-gray-700">
+              Resenhas
+            </button>
+            <div class="absolute hidden group-hover:block bg-gray-800 mt-1 shadow-lg rounded w-48 sm:w-64 z-10">
+              <div class="py-2">
+                <NuxtLink to="/posts/resenhas/bandas1" class="block px-4 py-2 text-white hover:bg-gray-700">
+                  Bandas inclassificáveis
+                </NuxtLink>
+                <!-- Adicione mais links para outras resenhas aqui -->
+              </div>
+            </div>
+          </div>
+
+          <!-- Dropdown para O que estamos ouvindo -->
+          <div class="relative group">
+            <button class="px-2 py-1 sm:px-4 sm:py-2 font-bold bg-gray-800 rounded hover:bg-gray-700">
+              O que estamos ouvindo
+            </button>
+            <div class="absolute hidden group-hover:block bg-gray-800 mt-1 shadow-lg rounded w-48 sm:w-64 z-10">
+              <div class="py-2">
+                <NuxtLink to="/posts/ouvindo/isacvarzim" class="block px-4 py-2 text-white hover:bg-gray-700">
+                  Isac Varzim
+                </NuxtLink>
+                <NuxtLink to="/posts/ouvindo/shoegaze" class="block px-4 py-2 text-white hover:bg-gray-700">
+                  Shoegaze
+                </NuxtLink>
+                <!-- Adicione mais links para outros posts aqui -->
+              </div>
+            </div>
           </div>
         </div>
-        </div>
-
-  <!-- Dropdown button para Resenhas -->
-        <div class="group inline-block relative">
-    <button class="px-2 py-1 sm:px-4 sm:py-2 font-bold bg-gray-800 rounded hover:bg-gray-700">Resenhas</button>
-
-    <!-- Dropdown content -->
-    <div class="absolute hidden group-hover:block bg-gray-800 mt-1 shadow-lg rounded w-48 sm:w-64 z-10 transition-opacity duration-500 ease-in-out opacity-0 group-hover:opacity-100">
-      <div class="py-2">
-        
-        
-        <!-- Adicione mais links para outras resenhas aqui -->
-      </div>
-    </div>
-  </div>
-
-  <!-- Dropdown button para O que estamos ouvindo -->
-  <div class="group inline-block relative">
-    <button class="px-2 py-1 sm:px-4 sm:py-2 font-bold bg-gray-800 rounded hover:bg-gray-700">O que estamos ouvindo</button>
-
-    <!-- Dropdown content -->
-    <div class="absolute hidden group-hover:block bg-gray-800 mt-1 shadow-lg rounded w-48 sm:w-64 z-10 transition-opacity duration-500 ease-in-out opacity-0 group-hover:opacity-100">
-      <div class="py-2">
-        <NuxtLink to="/posts/ouvindo/isacvarzim" class="block px-4 py-2 text-white hover:bg-gray-700">Isac Varzim</NuxtLink>
-        <NuxtLink to="/posts/ouvindo/shoegaze" class="block px-4 py-2 text-white hover:bg-gray-700">Shoegaze</NuxtLink>
-        <!-- Adicione mais links para outros posts aqui -->
-      </div>
-    </div>
-  </div>
-</div>
       </nav>
     </header>
   </div>
 </template>
+
 
 <style scoped>
 header {

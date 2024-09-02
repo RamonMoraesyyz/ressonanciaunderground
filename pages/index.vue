@@ -51,6 +51,16 @@ const { data: posts } = await useAsyncData('posts', async () => {
       path: '/posts/resumo/resumo1',
       date: '2024-08-25',  // Data fictícia
     },
+
+    {
+      title: 'Bandas Inclassificáveis',
+      excerpt: 'Bandas difíceis de se classificar',
+      image: '/resenhas/sleep.jpg',
+      path: '/posts/resenhas/bandas1',
+      date: '2024-09-01',  // Data fictícia
+    },
+
+
     // Adicione mais posts aqui
   ]
 
