@@ -4,7 +4,9 @@
     <header class="bg-black text-white p-4 fixed top-0 left-0 w-full z-50">
       <nav class="container mx-auto flex flex-wrap justify-between items-center">
         <div class="flex flex-col">
-          <h1 class="text-2xl sm:text-3xl font-bold">Ressonância Underground</h1>
+          <NuxtLink to="/" class="text-white hover:text-gray-300">
+            <h1 class="text-2xl sm:text-3xl font-bold">Ressonância Underground</h1>
+          </NuxtLink>
           <p class="text-xs sm:text-sm mt-2">O seu refúgio para críticas musicais e divulgação de todo o cenário underground e mainstream</p>
         </div>
 
@@ -17,7 +19,7 @@
             <div class="absolute hidden group-hover:block bg-gray-800 mt-1 shadow-lg rounded w-48 sm:w-64 z-10">
               <div class="py-2">
                 <NuxtLink to="/posts/resumo/resumo1" class="block px-4 py-2 text-white hover:bg-gray-700">
-                  Resumo 1
+                  Semana 35/2024
                 </NuxtLink>
                 <!-- Adicione mais links para outros resumos semanais aqui -->
               </div>

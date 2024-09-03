@@ -1,6 +1,6 @@
 <template>
   <section class="pt-28 px-4 md:px-8 container mx-auto">
-    <h1 class="text-3xl font-bold mb-8">Últimos posts</h1>
+    <h1 class="text-3xl sm:text-4xl flex justify-start font-bold p-16 sm:p-12">Últimos posts</h1>
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
       <!-- Itera sobre os posts para exibi-los como cards -->
       <NuxtLink
@@ -45,7 +45,7 @@ const { data: posts } = await useAsyncData('posts', async () => {
       date: '2024-08-25',  // Data fictícia
     },
     {
-      title: 'Resumo Semanal 1',
+      title: 'Resumo Semana 35/2024',
       excerpt: 'Resumo semanal musical',
       image: '/resumo/resumo1.jfif',
       path: '/posts/resumo/resumo1',

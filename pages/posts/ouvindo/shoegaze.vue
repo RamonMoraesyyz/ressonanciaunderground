@@ -28,26 +28,30 @@
             </p>
   
   <!-- Links para o YouTube e Spotify -->
-            <div class="flex flex-col sm:flex-col sm:justify-between items-center space-y-4 sm:space-y-0 sm:space-x-4 mb-6">
-             <a href="https://open.spotify.com/intl-pt/artist/0mOiRg1cqDkCESsFozsuZU" target="_blank" class="text-green-400 font-bold hover:underline text-center">Terraplana</a>
-             <a href="https://open.spotify.com/intl-pt/artist/5XgdNH4XKiXwbXUTytIZnX" target="_blank" class="text-green-400 font-bold hover:underline text-center">Gorduratrans</a>
-             <a href="https://open.spotify.com/intl-pt/artist/4rjlerN21ygkIhmUv55irs" target="_blank" class="text-green-400 font-bold hover:underline text-center">The Jesus and Mary Chain</a>
-            </div>
-          
-          <!-- Botão para voltar à página inicial -->
-          <div class="flex justify-center">
-            <NuxtLink to="/" class="px-4 py-2 bg-gray-800 text-white rounded hover:bg-gray-700">Voltar para a página inicial</NuxtLink>
-          </div>
-        </div>
-      </article>
-    </div>
-  </template>
+  <div class="flex justify-center space-x-4 mt-4 mb-8"> <!-- Adicionado mb-8 para criar espaço -->
+    <a href="https://open.spotify.com/intl-pt/playlist/37i9dQZF1DX6ujZpAN0v9r" target="_blank" class="flex items-center text-green-400 font-bold hover:underline">
+      <UIcon name="i-simple-icons-spotify" class="mr-2"/>
+      Spotify
+    </a>
+    <a href="https://www.youtube.com/playlist?list=PLfiMjLyNWxeZShzEPNrQTXBYtAhYxFVwj" target="_blank" class="flex items-center text-red-400 font-bold hover:underline">
+      <UIcon name="i-simple-icons-youtube" class="mr-2"/>
+      Youtube
+    </a>
+  </div>
   
-  <script setup>
+  <!-- Botão para voltar à página inicial -->
+  <div class="flex justify-center">
+    <NuxtLink to="/" class="px-4 py-2 bg-gray-800 text-white rounded hover:bg-gray-700">Voltar para a página inicial</NuxtLink>
+  </div>
+</div>
+</article>
+</div>
+</template>
+  
+<script setup>
     // Adicione qualquer script necessário aqui
-  </script>
+</script>
   
-  <style scoped>
+<style scoped>
   /* Estilos adicionais podem ser adicionados aqui se necessário */
-  </style>
-  
+</style>

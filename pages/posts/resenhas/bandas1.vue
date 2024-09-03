@@ -19,7 +19,7 @@
 
           
             <p class="text-white text-base mb-1">Existem tantos gêneros e subgêneros dentro do rock e metal que é difícil e praticamente impossível classificar muitas bandas em apenas um gênero, e se tem algo que gosto é de bandas que pegam várias influências e criam um som único, 
-                que quando você ouve você pensa “nunca ouvi nada igual, isso é bom pra caralho”, 
+                que quando você ouve você pensa "nunca ouvi nada igual, isso é bom pra caralho", 
                 e hoje vou falar de três dessas bandas que descobri recentemente e que provavelmente vão te despertar essa sensação.</p>
 
                 <br>
@@ -30,9 +30,15 @@
             O resultado é uma música que desafia convenções, explorando temas de resistência, dor e emancipação. Faixas como "Devil Is Fine" e "Gravedigger's Chant" exemplificam essa mistura, onde guitarras distorcidas e vocais guturais encontram coros hipnóticos e ritmos tribais. A sonoridade de Zeal & Ardor é ao mesmo tempo perturbadora e cativante, evocando tanto o inferno quanto a redenção.
             A banda não apenas cria uma sonoridade única, mas também provoca uma reflexão sobre o passado sombrio da humanidade e as forças que moldaram nossa sociedade. Zeal & Ardor é um exemplo de como a música pode transcender gêneros, criando uma experiência auditiva que é tão visceral quanto intelectual.
             </p>
-            <div class="flex flex-col sm:flex-col sm:justify-between items-center space-y-4 sm:space-y-0 sm:space-x-4 mb-6">
-            <a href="https://open.spotify.com/intl-pt/artist/6yCjbLFZ9qAnWfsy9ujm5Y" target="_blank" class="text-green-400 font-bold hover:underline">Spotify</a>
-            <a href="https://www.youtube.com/@ZealArdor666" target="_blank" class="text-red-400 font-bold hover:underline">Youtube</a>
+            <div class="flex justify-center space-x-4 mt-4">
+              <a href="https://open.spotify.com/intl-pt/artist/6yCjbLFZ9qAnWfsy9ujm5Y" target="_blank" class="flex items-center text-green-400 font-bold hover:underline">
+                <UIcon name="i-simple-icons-spotify" class="mr-2"/>
+                Spotify
+              </a>
+              <a href="https://www.youtube.com/@ZealArdor666" target="_blank" class="flex items-center text-red-400 font-bold hover:underline">
+                <UIcon name="i-simple-icons-youtube" class="mr-2"/>
+                Youtube
+              </a>
             </div>
           </div>
           
@@ -44,9 +50,15 @@
             A banda não apenas desafia as convenções do metal e do rock, mas também cria uma experiência auditiva que é profundamente imersiva e pessoal. Sleep Token não é apenas uma banda, mas um culto sonoro que convida seus seguidores a se perderem em suas camadas de som e significado.
 
             </p>
-            <div class="flex flex-col sm:flex-col sm:justify-between items-center space-y-4 sm:space-y-0 sm:space-x-4 mb-6">
-            <a href="https://open.spotify.com/intl-pt/artist/2n2RSaZqBuUUukhbLlpnE6" target="_blank" class="text-green-400 font-bold hover:underline">Spotify</a>
-            <a href="https://www.youtube.com/@Sleep-Token" target="_blank" class="text-red-400 font-bold hover:underline">Youtube</a>
+            <div class="flex justify-center space-x-4 mt-4">
+              <a href="https://open.spotify.com/intl-pt/artist/2n2RSaZqBuUUukhbLlpnE6" target="_blank" class="flex items-center text-green-400 font-bold hover:underline">
+                <UIcon name="i-simple-icons-spotify" class="mr-2"/>
+                Spotify
+              </a>
+              <a href="https://www.youtube.com/@Sleep-Token" target="_blank" class="flex items-center text-red-400 font-bold hover:underline">
+                <UIcon name="i-simple-icons-youtube" class="mr-2"/>
+                Youtube
+              </a>
             </div>
           </div>
           
@@ -54,14 +66,20 @@
           <div>
             <p class="text-xl font-bold mb-3">DREGG</p>
             <p class="text-white text-base mb-1"> É uma banda que chega para romper barreiras e desafiar as convenções do hardcore moderno com sua abordagem ousada e energética. Originária da Austrália, DREGG mistura o peso e a agressividade do hardcore com elementos de rap, nu-metal, e até toques de humor ácido, criando um som que é tão imprevisível quanto explosivo. A banda se destaca por sua atitude irreverente, refletida tanto nas letras como na estética visual, que não hesita em zombar dos estereótipos do gênero.
-            Musicalmente, DREGG entrega riffs pesados e cadenciados, acompanhados por vocais gritados e passagens de rap que conferem uma dinâmica vibrante e contemporânea às suas músicas. Faixas como "Hectic" e "I’m Done" exemplificam a capacidade da banda de combinar ferocidade sonora com mensagens sociais incisivas, abordando temas como identidade, desigualdade e resistência ao conformismo.
+            Musicalmente, DREGG entrega riffs pesados e cadenciados, acompanhados por vocais gritados e passagens de rap que conferem uma dinâmica vibrante e contemporânea às suas músicas. Faixas como "Hectic" e "I'm Done" exemplificam a capacidade da banda de combinar ferocidade sonora com mensagens sociais incisivas, abordando temas como identidade, desigualdade e resistência ao conformismo.
             O estilo visual da banda, marcado por cores vivas e uma estética quase cartunesca, contrasta com o peso de sua música, mas serve para reforçar a ideia de que DREGG não se leva a sério demais e é precisamente isso que os torna tão cativantes. Eles não apenas desafiam o status quo do hardcore, mas também trazem uma dose refrescante de criatividade e originalidade ao cenário, mostrando que a música pesada pode ser tão provocativa quanto divertida.
 
 
             </p>
-            <div class="flex flex-col sm:flex-col sm:justify-between items-center space-y-4 sm:space-y-0 sm:space-x-4 mb-6">
-            <a href="https://open.spotify.com/intl-pt/artist/3jPUAhZngU2sEwsDm7Um6B?autoplay=true" target="_blank" class="text-green-400 font-bold hover:underline">Spotify</a>
-            <a href="https://www.youtube.com/@DREGGMUSIC" target="_blank" class="text-red-400 font-bold hover:underline">Youtube</a>
+            <div class="flex justify-center space-x-4 mt-4">
+              <a href="https://open.spotify.com/intl-pt/artist/3jPUAhZngU2sEwsDm7Um6B?autoplay=true" target="_blank" class="flex items-center text-green-400 font-bold hover:underline">
+                <UIcon name="i-simple-icons-spotify" class="mr-2"/>
+                Spotify
+              </a>
+              <a href="https://www.youtube.com/@DREGGMUSIC" target="_blank" class="flex items-center text-red-400 font-bold hover:underline">
+                <UIcon name="i-simple-icons-youtube" class="mr-2"/>
+                Youtube
+              </a>
             </div>
           </div>
 
