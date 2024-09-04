@@ -24,20 +24,59 @@
                 <br><br>
                 Fui procurar algumas origens da pegada Shoegaze e cheguei em The Jesus and Mary Chain, uma banda escocesa que começou anos 80 e ajudou a propagar esse tipo de som pelo mundo e com certeza influenciar uma caralhada de bandas boas. Eu particularmente gosto bastante dessa pegada alternativa de som, que te deixa indeciso em classificar um estilo específico, e classificar o Indie/Alternativo (de independente) é muito difícil pois além de ser resultado de influências de várias bandas, mistura muitos estilos e subestilos que fica difícil classificar em um único tipo de som.
                 <br><br>
-                Fica nos links abaixo as páginas das bandas que mencionei no post, e na medida que eu for descobrindo coisas novas vou adicionando mais.
+                Ficam os links abaixo as páginas das bandas que mencionei no post, e na medida que eu for descobrindo coisas novas vou adicionando mais.
             </p>
   
   <!-- Links para o YouTube e Spotify -->
-  <div class="flex justify-center space-x-4 mt-4 mb-8"> <!-- Adicionado mb-8 para criar espaço -->
-    <a href="https://open.spotify.com/intl-pt/playlist/37i9dQZF1DX6ujZpAN0v9r" target="_blank" class="flex items-center text-green-400 font-bold hover:underline">
-      <UIcon name="i-simple-icons-spotify" class="mr-2"/>
-      Spotify
-    </a>
-    <a href="https://www.youtube.com/playlist?list=PLfiMjLyNWxeZShzEPNrQTXBYtAhYxFVwj" target="_blank" class="flex items-center text-red-400 font-bold hover:underline">
-      <UIcon name="i-simple-icons-youtube" class="mr-2"/>
-      Youtube
-    </a>
-  </div>
+            <div>
+            <p class="text-xl flex justify-center font-bold mb-1">Shoegaze Classics</p>
+          
+            <div class="flex justify-center space-x-4 mt-4">
+              <a href="https://open.spotify.com/playlist/37i9dQZF1DX6ujZpAN0v9r#:~:text=This%20may%20impact%20the%20content%20and%20messages%20you%20see%20on" target="_blank" class="flex items-center text-green-500 font-bold hover:underline">
+                <UIcon name="i-simple-icons-spotify" class="mr-2"/>
+                Spotify
+              </a>
+              
+            </div>
+          </div>
+
+          <br>
+
+          <div>
+            <p class="text-xl flex justify-center font-bold mb-1">gorduratrans</p>
+          
+            <div class="flex justify-center space-x-4 mt-4">
+              <a href="https://open.spotify.com/intl-pt/artist/5XgdNH4XKiXwbXUTytIZnX#:~:text=They%20are%20capable%20of%20tracking%20your%20browser%20across%20other%20sites" target="_blank" class="flex items-center text-green-500 font-bold hover:underline">
+                <UIcon name="i-simple-icons-spotify" class="mr-2"/>
+                Spotify
+              </a>
+              <a href="https://www.youtube.com/@gorduratrans#:~:text=gorduratrans.%20@gorduratrans%20%E2%80%A7.%20%E2%80%A7.%2016.8K%20subscribers%20%E2%80%A7%2030" target="_blank" class="flex items-center text-red-600 font-bold hover:underline">
+                <UIcon name="i-simple-icons-youtube" class="mr-2"/>
+                Youtube
+              </a>
+            </div>
+          </div>
+
+          <br>
+
+          <div>
+            <p class="text-xl flex justify-center font-bold mb-1">terraplana</p>
+          
+            <div class="flex justify-center space-x-4 mt-4">
+              <a href="https://open.spotify.com/intl-pt/artist/0mOiRg1cqDkCESsFozsuZU#:~:text=Listen%20to%20terraplana%20on%20Spotify.%20Artist%20%C2%B7%2012.9K%20monthly" target="_blank" class="flex items-center text-green-500 font-bold hover:underline">
+                <UIcon name="i-simple-icons-spotify" class="mr-2"/>
+                Spotify
+              </a>
+
+              <a href="https://www.youtube.com/@terraplana#:~:text=terraplana%20-%20meus%20passos%20(feat.%20Shower%20Curtain)%20Balaclava" target="_blank" class="flex items-center text-red-600 font-bold hover:underline">
+                <UIcon name="i-simple-icons-youtube" class="mr-2"/>
+                Youtube
+              </a>
+            </div>
+          </div>
+
+          <br>
+
   
   <!-- Botão para voltar à página inicial -->
   <div class="flex justify-center">

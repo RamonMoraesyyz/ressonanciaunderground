@@ -4,8 +4,8 @@
     <header class="bg-black text-white p-4 fixed top-0 left-0 w-full z-50">
       <nav class="container mx-auto flex flex-wrap justify-between items-center">
         <div class="flex flex-col">
-          <NuxtLink to="/" class="text-white hover:text-gray-300">
-            <h1 class="text-2xl sm:text-3xl font-bold">Ressonância Underground</h1>
+          <NuxtLink to="/" class="text-red-600 hover:text-red-900">
+            <h1 class="text-2xl sm:text-3xl font-bold text-red-600">Ressonância Underground</h1>
           </NuxtLink>
           <p class="text-xs sm:text-sm mt-2">O seu refúgio para críticas musicais e divulgação de todo o cenário underground e mainstream</p>
         </div>

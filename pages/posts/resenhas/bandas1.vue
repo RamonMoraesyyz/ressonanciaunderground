@@ -31,11 +31,11 @@
             A banda não apenas cria uma sonoridade única, mas também provoca uma reflexão sobre o passado sombrio da humanidade e as forças que moldaram nossa sociedade. Zeal & Ardor é um exemplo de como a música pode transcender gêneros, criando uma experiência auditiva que é tão visceral quanto intelectual.
             </p>
             <div class="flex justify-center space-x-4 mt-4">
-              <a href="https://open.spotify.com/intl-pt/artist/6yCjbLFZ9qAnWfsy9ujm5Y" target="_blank" class="flex items-center text-green-400 font-bold hover:underline">
+              <a href="https://open.spotify.com/intl-pt/artist/6yCjbLFZ9qAnWfsy9ujm5Y" target="_blank" class="flex items-center text-green-500 font-bold hover:underline">
                 <UIcon name="i-simple-icons-spotify" class="mr-2"/>
                 Spotify
               </a>
-              <a href="https://www.youtube.com/@ZealArdor666" target="_blank" class="flex items-center text-red-400 font-bold hover:underline">
+              <a href="https://www.youtube.com/@ZealArdor666" target="_blank" class="flex items-center text-red-600 font-bold hover:underline">
                 <UIcon name="i-simple-icons-youtube" class="mr-2"/>
                 Youtube
               </a>
@@ -51,11 +51,11 @@
 
             </p>
             <div class="flex justify-center space-x-4 mt-4">
-              <a href="https://open.spotify.com/intl-pt/artist/2n2RSaZqBuUUukhbLlpnE6" target="_blank" class="flex items-center text-green-400 font-bold hover:underline">
+              <a href="https://open.spotify.com/intl-pt/artist/2n2RSaZqBuUUukhbLlpnE6" target="_blank" class="flex items-center text-green-500 font-bold hover:underline">
                 <UIcon name="i-simple-icons-spotify" class="mr-2"/>
                 Spotify
               </a>
-              <a href="https://www.youtube.com/@Sleep-Token" target="_blank" class="flex items-center text-red-400 font-bold hover:underline">
+              <a href="https://www.youtube.com/@Sleep-Token" target="_blank" class="flex items-center text-red-600 font-bold hover:underline">
                 <UIcon name="i-simple-icons-youtube" class="mr-2"/>
                 Youtube
               </a>
@@ -72,11 +72,11 @@
 
             </p>
             <div class="flex justify-center space-x-4 mt-4">
-              <a href="https://open.spotify.com/intl-pt/artist/3jPUAhZngU2sEwsDm7Um6B?autoplay=true" target="_blank" class="flex items-center text-green-400 font-bold hover:underline">
+              <a href="https://open.spotify.com/intl-pt/artist/3jPUAhZngU2sEwsDm7Um6B?autoplay=true" target="_blank" class="flex items-center text-green-500 font-bold hover:underline">
                 <UIcon name="i-simple-icons-spotify" class="mr-2"/>
                 Spotify
               </a>
-              <a href="https://www.youtube.com/@DREGGMUSIC" target="_blank" class="flex items-center text-red-400 font-bold hover:underline">
+              <a href="https://www.youtube.com/@DREGGMUSIC" target="_blank" class="flex items-center text-red-600 font-bold hover:underline">
                 <UIcon name="i-simple-icons-youtube" class="mr-2"/>
                 Youtube
               </a>

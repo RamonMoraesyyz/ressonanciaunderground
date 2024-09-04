@@ -10,7 +10,7 @@
   
         <!-- Espaço para a foto -->
         <div class="mb-6">
-          <img src="/public/resumo/resumo1.jfif" alt="Isac Varzim" class="w-full h-auto rounded-lg">
+          <img src="/public/resumo/resumo1.jpg" alt="Isac Varzim" class="w-full h-auto rounded-lg">
         </div>
         <!-- Conteúdo do post -->
         <div class="space-y-6">
@@ -20,11 +20,11 @@
             <p class="text-xl font-bold mb-1">Mountaineer</p>
             <p class="text-white text-base mb-1">Um post-metal americano com grandes influências de doom metal que é difícil explicar.</p>
             <div class="flex justify-center space-x-4 mt-4">
-              <a href="https://open.spotify.com/intl-pt/artist/6Elws371EaSX8AiIMeIS9q?si=ZlPh9jqiQvu7WdjG39pBpQ&nd=1&dlsi=da567470a4304371" target="_blank" class="flex items-center text-green-400 font-bold hover:underline">
+              <a href="https://open.spotify.com/intl-pt/artist/6Elws371EaSX8AiIMeIS9q?si=ZlPh9jqiQvu7WdjG39pBpQ&nd=1&dlsi=da567470a4304371" target="_blank" class="flex items-center text-green-500 font-bold hover:underline">
                 <UIcon name="i-simple-icons-spotify" class="mr-2"/>
                 Spotify
               </a>
-              <a href="https://www.youtube.com/@mountaineerband" target="_blank" class="flex items-center text-red-400 font-bold hover:underline">
+              <a href="https://www.youtube.com/@athousandarms/featured" target="_blank" class="flex items-center text-red-600 font-bold hover:underline">
                 <UIcon name="i-simple-icons-youtube" class="mr-2"/>
                 Youtube
               </a>
@@ -36,11 +36,11 @@
             <p class="text-xl font-bold mb-1">Black Bordello</p>
             <p class="text-white text-base mb-1">Indie passivo/agressivo inglês.</p>
             <div class="flex justify-center space-x-4 mt-4">
-              <a href="https://open.spotify.com/intl-pt/artist/0LhmtJ38vRhd35Eg3oC1nt" target="_blank" class="flex items-center text-green-400 font-bold hover:underline">
+              <a href="https://open.spotify.com/intl-pt/artist/0LhmtJ38vRhd35Eg3oC1nt" target="_blank" class="flex items-center text-green-500 font-bold hover:underline">
                 <UIcon name="i-simple-icons-spotify" class="mr-2"/>
                 Spotify
               </a>
-              <a href="https://www.youtube.com/@blackbordello" target="_blank" class="flex items-center text-red-400 font-bold hover:underline">
+              <a href="https://www.youtube.com/@blackbordello" target="_blank" class="flex items-center text-red-600 font-bold hover:underline">
                 <UIcon name="i-simple-icons-youtube" class="mr-2"/>
                 Youtube
               </a>
@@ -52,11 +52,11 @@
             <p class="text-xl font-bold mb-1">Oceans of Slumber</p>
             <p class="text-white text-base mb-1">Um metal progressivo e épico com um vocal feminino lá do Texas..</p>
             <div class="flex justify-center space-x-4 mt-4">
-              <a href="https://open.spotify.com/intl-pt/artist/2JSza6IRxLr1Ez3wqKd0SY" target="_blank" class="flex items-center text-green-400 font-bold hover:underline">
+              <a href="https://open.spotify.com/intl-pt/artist/2JSza6IRxLr1Ez3wqKd0SY" target="_blank" class="flex items-center text-green-500 font-bold hover:underline">
                 <UIcon name="i-simple-icons-spotify" class="mr-2"/>
                 Spotify
               </a>
-              <a href="https://www.youtube.com/@oceansofslumber" target="_blank" class="flex items-center text-red-400 font-bold hover:underline">
+              <a href="https://www.youtube.com/@oceansofslumber" target="_blank" class="flex items-center text-red-600 font-bold hover:underline">
                 <UIcon name="i-simple-icons-youtube" class="mr-2"/>
                 Youtube
               </a>
@@ -67,11 +67,11 @@
             <p class="text-xl font-bold mb-1">Escuela Grind</p>
             <p class="text-white text-base mb-1">Metal extremo com vocal feminino americano que é de tirar o fôlego.</p>
             <div class="flex justify-center space-x-4 mt-4">
-              <a href="https://open.spotify.com/intl-pt/artist/75lXMXjUfNNbrBz6auGvvG" target="_blank" class="flex items-center text-green-400 font-bold hover:underline">
+              <a href="https://open.spotify.com/intl-pt/artist/75lXMXjUfNNbrBz6auGvvG" target="_blank" class="flex items-center text-green-500 font-bold hover:underline">
                 <UIcon name="i-simple-icons-spotify" class="mr-2"/>
                 Spotify
               </a>
-              <a href="https://www.youtube.com/@escuelagrind" target="_blank" class="flex items-center text-red-400 font-bold hover:underline">
+              <a href="https://www.youtube.com/@escuelagrind" target="_blank" class="flex items-center text-red-600 font-bold hover:underline">
                 <UIcon name="i-simple-icons-youtube" class="mr-2"/>
                 Youtube
               </a>

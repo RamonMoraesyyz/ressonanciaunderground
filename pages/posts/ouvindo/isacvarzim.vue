@@ -31,11 +31,11 @@
         
         <!-- Links para o YouTube e Spotify -->
         <div class="flex justify-center space-x-4 mt-4 mb-8"> <!-- Adicionado mb-8 para criar espaço -->
-          <a href="https://open.spotify.com/intl-pt/artist/4Uc8Dsxct0oMqx0P6i60ea?si=Ue_aqZXLQZOzn-Iy-Aw-Aw" target="_blank" class="flex items-center text-green-400 font-bold hover:underline">
+          <a href="https://open.spotify.com/intl-pt/artist/4Uc8Dsxct0oMqx0P6i60ea?si=Ue_aqZXLQZOzn-Iy-Aw-Aw" target="_blank" class="flex items-center text-green-500 font-bold hover:underline">
             <UIcon name="i-simple-icons-spotify" class="mr-2"/>
             Spotify
           </a>
-          <a href="https://www.youtube.com/channel/UCXvSeBjbHt3YwY9kLmuXgUg" target="_blank" class="flex items-center text-red-400 font-bold hover:underline">
+          <a href="https://www.youtube.com/channel/UCXvSeBjbHt3YwY9kLmuXgUg" target="_blank" class="flex items-center text-red-600 font-bold hover:underline">
             <UIcon name="i-simple-icons-youtube" class="mr-2"/>
             Youtube
           </a>
