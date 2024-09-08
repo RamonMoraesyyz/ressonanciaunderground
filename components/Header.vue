@@ -10,7 +10,7 @@
           <p class="text-xs sm:text-sm mt-2">O seu refúgio para críticas musicais e divulgação de todo o cenário underground e mainstream</p>
         </div>
 
-        <div class="mt-4 sm:mt-0 flex flex-wrap justify-center sm:justify-end space-x-2 sm:space-x-4">
+        <div class="mt-4 sm:mt-4 flex flex-wrap justify-center sm:justify-end space-x-2 sm:space-x-4">
           <!-- Dropdown para Resumo Semanal -->
           <div class="relative group">
             <button class="px-2 py-1 sm:px-4 sm:py-2 font-bold bg-gray-800 rounded hover:bg-gray-700">
@@ -20,6 +20,9 @@
               <div class="py-2">
                 <NuxtLink to="/posts/resumo/resumo1" class="block px-4 py-2 text-white hover:bg-gray-700">
                   Semana 35/2024
+                </NuxtLink>
+                <NuxtLink to="/posts/resumo/resumo2" class="block px-4 py-2 text-white hover:bg-gray-700">
+                  Semana 36/2024
                 </NuxtLink>
                 <!-- Adicione mais links para outros resumos semanais aqui -->
               </div>

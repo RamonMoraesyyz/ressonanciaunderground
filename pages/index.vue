@@ -60,6 +60,14 @@ const { data: posts } = await useAsyncData('posts', async () => {
       date: '2024-09-01',  // Data fictícia
     },
 
+    {
+      title: 'Resumo Semana 36/2024',
+      excerpt: 'Resumo semanal musical',
+      image: '/resumo/resumo2.jpg',
+      path: '/posts/resumo/resumo2',
+      date: '2024-09-08',  // Data fictícia
+    },
+
 
     // Adicione mais posts aqui
   ]
