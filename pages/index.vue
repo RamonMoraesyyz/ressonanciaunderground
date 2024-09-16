@@ -1,6 +1,6 @@
 <template>
-  <section class="pt-24 sm:pt-20 md:pt-28 px-4 md:px-8 container mx-auto">
-    <h1 class="text-3xl sm:text-4xl flex justify-start font-bold pt-24 p-6 sm:pt-8 md:pt-12">Últimos posts</h1>
+  <section class="pt-24 sm:pt-20 md:pt-28 px-4 md:px-8 container mx-auto bg-black min-h-screen">
+    <h1 class="text-3xl sm:text-4xl flex justify-start font-bold pt-24 p-6 sm:pt-8 md:pt-12 text-white">Últimos posts</h1>
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
       <!-- Itera sobre os posts para exibi-los como cards -->
       <NuxtLink
@@ -22,6 +22,12 @@
     </div>
   </section>
 </template>
+
+<style>
+body {
+  background-color: black;
+}
+</style>
 
 <script setup>
 import { useAsyncData } from 'nuxt/app'
@@ -60,12 +66,21 @@ const { data: posts } = await useAsyncData('posts', async () => {
       date: '2024-09-01',  // Data fictícia
     },
 
+
     {
       title: 'Resumo Semana 36/2024',
       excerpt: 'Resumo semanal musical',
       image: '/resumo/resumo2.jpg',
       path: '/posts/resumo/resumo2',
       date: '2024-09-08',  // Data fictícia
+    },
+
+    {
+      title: 'Bandas estrangeiras',
+      excerpt: 'Bandas estrangeiras que você precisa conhecer',
+      image: '/resenhas/ningen.jpg',
+      path: '/posts/resenhas/bandas2',
+      date: '2024-09-15',  // Data fictícia
     },
 
 

@@ -5,7 +5,7 @@
       <nav class="container mx-auto flex flex-wrap justify-between items-center">
         <div class="flex flex-col">
           <NuxtLink to="/" class="text-red-600 hover:text-red-900">
-            <h1 class="text-2xl sm:text-3xl font-bold text-red-600">Ressonância Underground</h1>
+            <h1 class="text-3xl sm:text-3xl font-bold text-red-600">Ressonância Underground</h1>
           </NuxtLink>
           <p class="text-xs sm:text-sm mt-2">O seu refúgio para críticas musicais e divulgação de todo o cenário underground e mainstream</p>
         </div>
@@ -38,6 +38,9 @@
               <div class="py-2">
                 <NuxtLink to="/posts/resenhas/bandas1" class="block px-4 py-2 text-white hover:bg-gray-700">
                   Bandas inclassificáveis
+                </NuxtLink>
+                <NuxtLink to="/posts/resenhas/bandas2" class="block px-4 py-2 text-white hover:bg-gray-700">
+                  Bandas estrangeiras
                 </NuxtLink>
                 <!-- Adicione mais links para outras resenhas aqui -->
               </div>
