@@ -42,6 +42,10 @@
                 <NuxtLink to="/posts/resenhas/bandas2" class="block px-4 py-2 text-white hover:bg-gray-700">
                   Bandas estrangeiras
                 </NuxtLink>
+
+                <NuxtLink to="/posts/resenhas/mulheres1" class="block px-4 py-2 text-white hover:bg-gray-700">
+                  Mulheres no metal parte 1
+                </NuxtLink>
                 <!-- Adicione mais links para outras resenhas aqui -->
               </div>
             </div>

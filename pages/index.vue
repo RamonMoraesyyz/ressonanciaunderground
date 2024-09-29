@@ -36,6 +36,7 @@ import { useAsyncData } from 'nuxt/app'
 const { data: posts } = await useAsyncData('posts', async () => {
   // Simula a obtenção de posts
   const allPosts = [
+
     {
       title: 'Isac Varzim',
       excerpt: 'Um som para ser ouvido em viagens para outros planetas',
@@ -82,6 +83,15 @@ const { data: posts } = await useAsyncData('posts', async () => {
       path: '/posts/resenhas/bandas2',
       date: '2024-09-15',  // Data fictícia
     },
+
+    {
+      title: 'Mulheres no Metal Parte 1',
+      excerpt: 'Explorando o papel das mulheres na cena do metal',
+      image: '/resenhas/bambam.jpg',
+      path: '/posts/resenhas/mulheres1',
+      date: '2024-09-28',  // Data fictícia mais recente
+    },
+    
 
 
     // Adicione mais posts aqui
