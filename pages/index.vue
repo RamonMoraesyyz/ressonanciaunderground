@@ -91,7 +91,15 @@ const { data: posts } = await useAsyncData('posts', async () => {
       path: '/posts/resenhas/mulheres1',
       date: '2024-09-28',  // Data fictícia mais recente
     },
-    
+
+
+    {
+      title: 'Rock Goiano - Parte 1',
+      excerpt: 'Para quem acha que em Goiás só se faz sertanejo está muito enganado',
+      image: '/resenhas/projeto.jpg',
+      path: '/posts/resenhas/rockgoiano1',
+      date: '2024-10-05',  // Data fictícia mais recente
+    },
 
 
     // Adicione mais posts aqui
