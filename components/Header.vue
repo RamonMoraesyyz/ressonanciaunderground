@@ -50,6 +50,10 @@
                 <NuxtLink to="/posts/resenhas/rockgoiano1" class="block px-4 py-2 text-white hover:bg-gray-700">
                   Rock goiano 1
                 </NuxtLink>
+
+                <NuxtLink to="/posts/resenhas/undergroundbr" class="block px-4 py-2 text-white hover:bg-gray-700">
+                  Undergound BR parte 1
+                </NuxtLink>
                 <!-- Adicione mais links para outras resenhas aqui -->
               </div>
             </div>
