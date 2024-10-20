@@ -101,6 +101,14 @@ const { data: posts } = await useAsyncData('posts', async () => {
       date: '2024-10-05',  // Data fictícia mais recente
     },
 
+    {
+      title: 'Underground BR - Parte 1',
+      excerpt: 'Um giro por bandas underground ao redor do Brasil.',
+      image: '/resenhas/hoovaranas.jpg',
+      path: '/posts/resenhas/undergroundbr',
+      date: '2024-10-19',  // Data fictícia mais recente
+    },
+
 
     // Adicione mais posts aqui
   ]

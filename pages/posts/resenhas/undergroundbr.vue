@@ -104,6 +104,38 @@
 
           </div>
 
+          <div>
+            <p class="text-xl font-bold mb-3 flex items-center">
+                Tela Azzu
+    
+            </p>
+
+            <div class="mb-6">
+          <img src="/public/resenhas/tela.jpg" alt="Sleep" class="w-full h-auto rounded-lg">
+          <p class="text-sm text-gray-500 mb-2"> Tela Azzu, um som direto do Pará que mistura psicodelia, metal progressivo e música regional. </p>
+            </div>
+
+            <p class="text-white text-base mb-1"> Tela Azzu é uma banda experimental do Pará que mistura rock progressivo, post-rock e elementos regionais. Sua sonoridade é caracterizada por atmosferas etéreas e guitarras reverberantes, criando um som introspectivo e imersivo. As letras exploram temas filosóficos, como a percepção da realidade e a efemeridade da vida, alinhando-se ao conceito abstrato sugerido pelo nome da banda.
+
+            Suas músicas, muitas vezes longas e dinâmicas, oferecem uma experiência sensorial completa, levando o público a uma imersão tanto sonora quanto visual.
+
+            Além de sua sonoridade etérea e experimental, um dos grandes diferenciais do Tela Azzu é a incorporação de influências de música regional paraense em suas composições. Elementos de ritmos como o carimbó e a guitarrada são sutis, mas notáveis, adicionando uma camada de autenticidade e ligação cultural ao seu som moderno. Essa fusão entre o experimental e o tradicional cria uma identidade única, ao mesmo tempo em que presta homenagem à rica herança musical do Pará. Ao integrar essas influências, a banda não apenas amplia seu alcance sonoro, mas também destaca a relevância da música regional em contextos contemporâneos e alternativos.
+            </p>
+            <div class="flex justify-center space-x-4 mt-4">
+              <a href="https://open.spotify.com/intl-pt/artist/5YsvZXhUOz0IthnryUE3F0?si=LWGXLocnQYCRFsyZx3c3Kg" target="_blank" class="flex items-center text-green-500 font-bold hover:underline">
+                <UIcon name="i-simple-icons-spotify" class="mr-2"/>
+                Spotify
+              </a>
+
+              <a href="https://www.youtube.com/@telaazzu" target="_blank" class="flex items-center text-red-600 font-bold hover:underline">
+                <UIcon name="i-simple-icons-youtube" class="mr-2"/>
+                Youtube
+              </a>
+
+            </div>
+
+          </div>
+
           <br>
 
           <div>
