@@ -51,9 +51,10 @@ const { data: posts } = await useAsyncData('posts', async () => {
       path: '/posts/ouvindo/shoegaze',
       date: '2024-08-25',  // Data fictícia
     },
+
     {
-      title: 'Resumo Semana 35/2024',
-      excerpt: 'Resumo semanal musical',
+      title: 'Giro underground 1',
+      excerpt: 'Primeira sessão de porradas musicais',
       image: '/resumo/resumo1.jpg',
       path: '/posts/resumo/resumo1',
       date: '2024-08-25',  // Data fictícia
@@ -69,8 +70,8 @@ const { data: posts } = await useAsyncData('posts', async () => {
 
 
     {
-      title: 'Resumo Semana 36/2024',
-      excerpt: 'Resumo semanal musical',
+      title: 'Giro underground 2',
+      excerpt: 'Segunda sessão de novas descobertas',
       image: '/resumo/resumo2.jpg',
       path: '/posts/resumo/resumo2',
       date: '2024-09-08',  // Data fictícia
@@ -85,7 +86,7 @@ const { data: posts } = await useAsyncData('posts', async () => {
     },
 
     {
-      title: 'Mulheres no Metal Parte 1',
+      title: 'Mulheres no Metal - Parte 1',
       excerpt: 'Explorando o papel das mulheres na cena do metal',
       image: '/resenhas/bambam.jpg',
       path: '/posts/resenhas/mulheres1',
@@ -107,6 +108,14 @@ const { data: posts } = await useAsyncData('posts', async () => {
       image: '/resenhas/hoovaranas.jpg',
       path: '/posts/resenhas/undergroundbr',
       date: '2024-10-19',  // Data fictícia mais recente
+    },
+
+    {
+      title: 'Giro underground 3',
+      excerpt: 'A terceira parte de nosso mergulho nas bandas underground.',
+      image: '/resumo/jinjer.jpeg',
+      path: '/posts/resumo/resumo3',
+      date: '2024-11-05',  // Data fictícia mais recente
     },
 
 

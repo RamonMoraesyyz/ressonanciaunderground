@@ -14,15 +14,19 @@
           <!-- Dropdown para Resumo Semanal -->
           <div class="relative group">
             <button class="px-2 py-1 sm:px-4 sm:py-2 font-bold bg-gray-800 rounded hover:bg-gray-700">
-              Resumo Semanal
+              Giro Underground
             </button>
             <div class="absolute hidden group-hover:block bg-gray-800 mt-1 shadow-lg rounded w-48 sm:w-64 z-10">
               <div class="py-2">
                 <NuxtLink to="/posts/resumo/resumo1" class="block px-4 py-2 text-white hover:bg-gray-700">
-                  Semana 35/2024
+                  Giro Underground 1
                 </NuxtLink>
                 <NuxtLink to="/posts/resumo/resumo2" class="block px-4 py-2 text-white hover:bg-gray-700">
-                  Semana 36/2024
+                  Giro Underground 2
+                </NuxtLink>
+
+                <NuxtLink to="/posts/resumo/resumo3" class="block px-4 py-2 text-white hover:bg-gray-700">
+                  Giro Underground 3
                 </NuxtLink>
                 <!-- Adicione mais links para outros resumos semanais aqui -->
               </div>
