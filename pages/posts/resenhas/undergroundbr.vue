@@ -150,7 +150,7 @@
             de altíssima qualidade. </p>
             </div>
 
-            <p class="text-white text-base mb-1"> Paranoia Church é um projeto solSo do guitarrista brasileiro Bruno Rios, que traz à tona muitas influências de heavy metal, thrash metal, progressivo e crossover metal, além do nome genial do projeto, a banda se denomina como Horror Metal. Bruno oriundo de Fortaleza (CE) e atualmente residindo no Canadá, é conhecido por sua habilidade técnica e sua versatilidade nas cordas, atua no cenário underground desde 1998, fez fama com a banda Walking Back to hell e após um hiato criou o projeto como uma forma de explorar sonoridades mais complexas e atmosféricas, indo além das convenções tradicionais do rock e do metal.
+            <p class="text-white text-base mb-1"> Paranoia Church é um projeto solo do guitarrista brasileiro Bruno Rios, que traz à tona muitas influências de heavy metal, thrash metal, progressivo e crossover metal, além do nome genial do projeto, a banda se denomina como Horror Metal. Bruno oriundo de Fortaleza (CE) e atualmente residindo no Canadá, é conhecido por sua habilidade técnica e sua versatilidade nas cordas, atua no cenário underground desde 1998, fez fama com a banda Walking Back to hell e após um hiato criou o projeto como uma forma de explorar sonoridades mais complexas e atmosféricas, indo além das convenções tradicionais do rock e do metal.
 
             A sonoridade do Paranoia Church é marcada por estruturas musicais dinâmicas, que variam de passagens bem elaboradas a explosões sonoras intensas com riffs de guitarras pesados e rápidos.
 
