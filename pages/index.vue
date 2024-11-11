@@ -118,6 +118,14 @@ const { data: posts } = await useAsyncData('posts', async () => {
       date: '2024-11-05',  // Data fictícia mais recente
     },
 
+    {
+      title: 'Rock goiano - Parte 2',
+      excerpt: 'Parte 2 de vários episódios da série de rock underground goiano',
+      image: '/resenhas/bdc.jpg',
+      path: '/posts/resenhas/rockgoiano2',
+      date: '2024-11-10',  // Data fictícia mais recente
+    },
+
 
     // Adicione mais posts aqui
   ]

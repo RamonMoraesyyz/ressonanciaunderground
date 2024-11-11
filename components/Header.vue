@@ -55,6 +55,10 @@
                   Rock goiano 1
                 </NuxtLink>
 
+                <NuxtLink to="/posts/resenhas/rockgoiano2" class="block px-4 py-2 text-white hover:bg-gray-700">
+                  Rock goiano 2
+                </NuxtLink>
+
                 <NuxtLink to="/posts/resenhas/undergroundbr" class="block px-4 py-2 text-white hover:bg-gray-700">
                   Undergound BR parte 1
                 </NuxtLink>
