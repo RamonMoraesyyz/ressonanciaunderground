@@ -126,6 +126,14 @@ const { data: posts } = await useAsyncData('posts', async () => {
       date: '2024-11-10',  // Data fictícia mais recente
     },
 
+    {
+      title: 'Mulheres no Metal - Parte 2',
+      excerpt: 'Continuação da série sobre mulheres no metal',
+      image: '/resenhas/helena.webp',
+      path: '/posts/resenhas/mulheres2',
+      date: '2024-11-20',  // Data fictícia mais recente
+    },
+
 
     // Adicione mais posts aqui
   ]
