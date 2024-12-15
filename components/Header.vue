@@ -28,6 +28,10 @@
                 <NuxtLink to="/posts/resumo/resumo3" class="block px-4 py-2 text-white hover:bg-gray-700">
                   Giro Underground 3
                 </NuxtLink>
+
+                <NuxtLink to="/posts/resumo/resumo4" class="block px-4 py-2 text-white hover:bg-gray-700">
+                  Giro Underground 4
+                </NuxtLink>
                 <!-- Adicione mais links para outros resumos semanais aqui -->
               </div>
             </div>

@@ -3,7 +3,7 @@
 
       <article class="max-w-3xl mx-auto bg-black text-white shadow-md rounded-lg p-6 sm:p-8">
         <!-- Título do post atualizado -->
-        <h1 class="text-3xl sm:text-4xl flex justify-center font-bold p-16 sm:p-12">Resumo Semanal semana 36/2024</h1> <!-- Ajuste de tamanho do texto para responsividade -->
+        <h1 class="text-3xl sm:text-4xl flex justify-center font-bold p-16 sm:p-12">Giro underground 2</h1> <!-- Ajuste de tamanho do texto para responsividade -->
   
         <!-- Data e autor -->
         <p class="text-sm text-gray-500 mb-2">Publicado em 08 de setembro de 2024 por Ramon Moraes</p>
