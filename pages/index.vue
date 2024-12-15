@@ -136,7 +136,7 @@ const { data: posts } = await useAsyncData('posts', async () => {
 
     {
       title: 'Giro Underground 4',
-      excerpt: 'Continuação da série sobre mulheres no metal',
+      excerpt: 'Bandas incríveis com sons arrepiantes',
       image: '/resumo/juliec.jpeg',
       path: '/posts/resumo/resumo4',
       date: '2024-12-15',  // Data fictícia mais recente
