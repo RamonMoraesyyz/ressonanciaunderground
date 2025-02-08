@@ -143,6 +143,16 @@ const { data: posts } = await useAsyncData('posts', async () => {
     },
 
 
+    {
+      title: 'Underground BR - Parte 2',
+      excerpt: 'A volta dos posts com muitas novidades',
+      image: '/resenhas/sujera.avif',
+      path: '/posts/resenhas/undergroundbr2',
+      date: '2025-02-07',  // Data fictícia mais recente
+    },
+
+    
+
     // Adicione mais posts aqui
   ]
 
