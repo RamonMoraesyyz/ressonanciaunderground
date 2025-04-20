@@ -151,7 +151,16 @@ const { data: posts } = await useAsyncData('posts', async () => {
       date: '2025-02-07',  // Data fictícia mais recente
     },
 
-    
+    {
+      title: 'Mulheres no metal - Parte 3',
+      excerpt: 'Continuidade no som feminino, sensacional',
+      image: '/resenhas/dogma.jpg',
+      path: '/posts/resenhas/mulheres3',
+      date: '2025-04-20',  // Data fictícia mais recente
+    },
+
+
+
 
     // Adicione mais posts aqui
   ]

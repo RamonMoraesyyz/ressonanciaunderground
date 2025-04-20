@@ -59,6 +59,10 @@
                   Mulheres no metal parte 2
                 </NuxtLink>
 
+                <NuxtLink to="/posts/resenhas/mulheres3" class="block px-4 py-2 text-white hover:bg-gray-700">
+                  Mulheres no metal parte 3
+                </NuxtLink>
+
                 <NuxtLink to="/posts/resenhas/rockgoiano1" class="block px-4 py-2 text-white hover:bg-gray-700">
                   Rock goiano 1
                 </NuxtLink>
