@@ -78,6 +78,11 @@
                 <NuxtLink to="/posts/resenhas/undergroundbr2" class="block px-4 py-2 text-white hover:bg-gray-700">
                   Undergound BR parte 2
                 </NuxtLink>
+
+                <NuxtLink to="/posts/resenhas/numetal" class="block px-4 py-2 text-white hover:bg-gray-700">
+                  Nu Metal
+                </NuxtLink>
+
                 <!-- Adicione mais links para outras resenhas aqui -->
               </div>
             </div>

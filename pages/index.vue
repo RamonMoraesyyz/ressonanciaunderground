@@ -160,6 +160,15 @@ const { data: posts } = await useAsyncData('posts', async () => {
     },
 
 
+        {
+      title: 'Nu Metal estrangeiro',
+      excerpt: 'Bandas fora da bolha do Nu Metal',
+      image: '/resenhas/nu.webp',
+      path: '/posts/resenhas/numetal',
+      date: '2025-06-21',  // Data fictícia mais recente
+    },
+
+
 
 
     // Adicione mais posts aqui
