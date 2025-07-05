@@ -83,6 +83,10 @@
                   Nu Metal
                 </NuxtLink>
 
+                <NuxtLink to="/posts/resenhas/newbands" class="block px-4 py-2 text-white hover:bg-gray-700">
+                  Nova Geração
+                </NuxtLink>
+
                 <!-- Adicione mais links para outras resenhas aqui -->
               </div>
             </div>

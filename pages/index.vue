@@ -168,6 +168,14 @@ const { data: posts } = await useAsyncData('posts', async () => {
       date: '2025-06-21',  // Data fictícia mais recente
     },
 
+        {
+      title: 'Nova geração',
+      excerpt: 'A nova geração não está de brincadeira',
+      image: '/resenhas/turnstile.jpg',
+      path: '/posts/resenhas/newbands',
+      date: '2025-07-05',  // Data fictícia mais recente
+    },
+
 
 
 
