@@ -176,6 +176,14 @@ const { data: posts } = await useAsyncData('posts', async () => {
       date: '2025-07-05',  // Data fictícia mais recente
     },
 
+        {
+      title: 'Mulheres no metal - Parte 4',
+      excerpt: 'As mulheres vão dominar o mundo',
+      image: '/resenhas/taya.jpg',
+      path: '/posts/resenhas/mulheres4',
+      date: '2025-11-05',  // Data fictícia mais recente
+    },
+
 
 
 
